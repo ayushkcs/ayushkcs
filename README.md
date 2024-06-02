@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hey 👋, I'm Ayush Kumar</h1>
-<h4 align="left">Welcome to my corner of the web!
+<p>Welcome to my corner of the web!
 
 I’m [Ayush Kumar](https://www.linkedin.com/in/ayushkcs/) and am currently working as a Software Engineer Intern at [Neuralix](http://Neuralix.ai). 
 
 I go by [@ayushkcs](https://twitter.com/ayushkcs) on the interwebs.
 
 📍 Based in New Delhi, India.
-🌍 Speaks English and Hindi.</h4>
+🌍 Speaks English and Hindi.</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkcs&" alt="ayushkcs" /></p>
 
