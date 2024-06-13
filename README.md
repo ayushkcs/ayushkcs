@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hey 👋, I'm Ayush Kumar</h1>
 <p>Welcome to my corner of the web!
 
-I’m am currently working as a Software Engineer Intern at [Neuralix](http://Neuralix.ai). 
+I’m am currently working as a Software Engineer Intern at [Neuralix Inc](http://Neuralix.ai). 
 
 I go by [@ayushkcs](https://twitter.com/ayushkcs) on the interwebs.
 
@@ -29,8 +29,6 @@ I go by [@ayushkcs](https://twitter.com/ayushkcs) on the interwebs.
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkcs&" alt="ayushkcs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushkcs&show_icons=true&locale=en" alt="ayushkcs" /></p>
 
 
 <h2 align="left">Skills</h2>
