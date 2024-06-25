@@ -1,25 +1,13 @@
-
-
-<!--
-### Hey there 👋
-**ayushkcs/ayushkcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hey 👋, I'm Ayush Kumar</h1>
 <p>Welcome to my corner of the web!
 
-I’m am currently working as a Software Engineer Intern at [Neuralix Inc](http://Neuralix.ai). 
+I'm a final year Information Technology student with hands-on experience as a Software Engineer Intern at Neuralix Inc. and Backend Developer Intern at Next Toppers.
+
+My passion lies in discovering the endless possibilities of computer science and software engineering. I'm constantly focused on learning and finding innovative solutions to problems that come my way. 
+
+Currently, I'm seeking opportunities to hone my skills in the technology and software engineering domains. 
+
+I'd love to connect with you and chat about our shared interests. Thanks for stopping by!
 
 I go by [@ayushkcs](https://twitter.com/ayushkcs) on the interwebs.
 
