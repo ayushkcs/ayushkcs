@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Ayush Kumar</h1>
 <p>Welcome to my corner of the web!
 
-I'm a final year Information Technology student with hands-on experience as a Software Engineer Intern at Neuralix Inc. and Backend Developer Intern at Next Toppers.
+I'm a final year Information Technology student with hands-on experience as a **Software Engineer** Intern at **Neuralix Inc.** and **Backend Developer** Intern at **Next Toppers**.
 
 My passion lies in discovering the endless possibilities of computer science and software engineering. I'm constantly focused on learning and finding innovative solutions to problems that come my way. 
 
