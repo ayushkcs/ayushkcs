@@ -5,8 +5,6 @@ I'm a final year Information Technology student with hands-on experience as a **
 
 My passion lies in discovering the endless possibilities of computer science and software engineering. I'm constantly focused on learning and finding innovative solutions to problems that come my way. 
 
-I also run a personal website called "[Inverted Truth](https://invertedtruth.com/)" where I share updates and insights about my projects and interests.
-
 Currently, I'm seeking opportunities to hone my skills in the technology and software engineering domains. 
 
 I'd love to connect with you and chat about our shared interests. Thanks for stopping by!
