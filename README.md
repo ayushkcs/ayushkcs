@@ -1,22 +1,18 @@
 <h1 align="center">Hey 👋, I'm Ayush Kumar</h1>
-<p>Welcome to my corner of the web!
 
-I'm a final year Information Technology student with hands-on experience as a **Software Engineer** Intern at **Neuralix Inc.** and **Backend Developer** Intern at **Next Toppers**.
+<p align = "center"> <img  title="Ayush Kumar" alt="Ayush Kumar" width="400" src="animation.gif" /> </p>
 
-My passion lies in discovering the endless possibilities of computer science and software engineering. I'm constantly focused on learning and finding innovative solutions to problems that come my way. 
-
-Currently, I'm seeking opportunities to hone my skills in the technology and software engineering domains. 
-
-I'd love to connect with you and chat about our shared interests. Thanks for stopping by!
-
-I go by [@ayushkcs](https://twitter.com/ayushkcs) on the interwebs.
-
-📍 Based in New Delhi, India.
+<h3 align = "center">
+<b>
+Connect with me: </b><br>
 <br>
-🌍 Speaks English and Hindi.</p>
+<a href="https://x.com/ayushkcs"><img align="center" title="Twitter - Ayush Kumar" alt="Twitter" width="22px" src="twitter.svg" /></a>
+<a href="https://www.linkedin.com/in/ayushkcs/"><img align="center" title="LinkedIn - Ayush Kumar" alt="LinkedIn" width="22px" src="linkedin.svg" /></a>
+<a href="mailto:kayush2k02@gmail.com"><img align="center" title="Mail - Ayush Kumar" alt="Mail" width="22px" src="gmail.svg" /></a>
+</h3>
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkcs&" alt="ayushkcs" /></p>
+<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkcs&" alt="ayushkcs" /></p>
 
 
 <h2 align="left">Skills</h2>
