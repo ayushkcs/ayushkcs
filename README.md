@@ -4,7 +4,7 @@
 
 <h3 align = "center">
 <b>
-Connect with me: </b><br>
+Let's Connect!</b><br>
 <br>
 <a href="https://x.com/ayushkcs"><img align="center" title="Twitter - Ayush Kumar" alt="Twitter" width="22px" src="twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/ayushkcs/"><img align="center" title="LinkedIn - Ayush Kumar" alt="LinkedIn" width="22px" src="linkedin.svg" /></a>
@@ -64,14 +64,6 @@ React.js
 
 <br>
 
-<h2 align="left">Let's Connect!</h2>
-<p align="left">
-<a href="https://linkedin.com/in/ayushkcs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushkcs" height="30" width="40" /></a>
-<a href="https://twitter.com/ayushkcs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushkcs" height="30" width="40" /></a>
-<a href="mailto:kayush2k02@gmail.com?" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ayushkcs" height="30" width="70" /></a>
-</p>
-
-<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushkcs&label=Profile%20views&color=0e75b6&style=flat" alt="ayushkcs" /> </p>
 
 
