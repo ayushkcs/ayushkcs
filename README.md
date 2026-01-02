@@ -1,19 +1,30 @@
-<h1 align="center">Hey 👋, I'm Ayush Kumar</h1>
+#### Hey, I’m Ayush 👋
 
-<p align = "center"> <img  title="Ayush Kumar" alt="Ayush Kumar" width="400" src="animation.gif" /> </p>
+I’m a **Software Engineer (SDE-I) at [Zenact AI](https://www.zenact.ai/)**, building **AI agents, intelligent workflows, and backend systems**.
+
+I have hands-on experience in backend engineering, automation, and scalable system design. I’ve worked with startups in **India** and the **USA** across **AI, defence, and healthcare**, contributing to secure, production-ready backend services and automation platforms.
+
+Previously, I:
+- Built and deployed end-to-end **healthcare automation workflows** for US-based clients at **[Tennr (YC W23)](https://www.tennr.com/)**.
+- Worked on **real-time intelligence and situational-awareness platforms** for the **Indian Armed Forces** at **[Neuralix AI](https://neuralix.ai/)**.
+
+I enjoy understanding how complex systems work end-to-end and am naturally curious about technology, products, and large-scale problem-solving.
+
+Outside of work, I spend time researching, reading across domains, and contributing to **open-source projects** such as **[Prophetverse](https://prophetverse.com/latest/)** and **[Open edX](https://openedx.org/)**.
+
+Always open to discussions around engineering, backend systems, system design, and emerging technologies. Happy to connect!
 
 <h3 align = "center">
-<b>
-Let's Connect!</b><br>
 <br>
-<a href="https://x.com/ayushkcs"><img align="center" title="Twitter - Ayush Kumar" alt="Twitter" width="22px" src="twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/ayushkcs/"><img align="center" title="LinkedIn - Ayush Kumar" alt="LinkedIn" width="22px" src="linkedin.svg" /></a>
+<a href="https://x.com/ayushkcs"><img align="center" title="Twitter - Ayush Kumar" alt="Twitter" width="22px" src="twitter.svg" /></a>
 <a href="mailto:kayush2k02@gmail.com"><img align="center" title="Mail - Ayush Kumar" alt="Mail" width="22px" src="gmail.svg" /></a>
 </h3>
 <br>
 
-<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkcs&" alt="ayushkcs" /></p>
 
+
+<!--
 
 <h2 align="left">Skills</h2>
 <h3 align="left">Programming Languages</h3>
@@ -48,7 +59,7 @@ Let's Connect!</b><br>
 </p>
 
 
-<!--
+
 <p align="left"> 
 Docker
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
@@ -60,11 +71,11 @@ K8s
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>    
 React.js
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
--->
+
 
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushkcs&label=Profile%20views&color=0e75b6&style=flat" alt="ayushkcs" /> </p>
-
+-->
 
 
