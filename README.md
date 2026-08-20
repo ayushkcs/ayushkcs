@@ -1,16 +1,19 @@
 #### Hey, I’m Ayush 👋
 
-I’m a **Software Engineer (SDE-I) at [Zenact AI](https://www.zenact.ai/)**, building **AI agents, intelligent workflows, and backend systems**.
+I’m a **Member of Technical Staff at [Speechify AI](https://speechify.ai/)**, the company behind **SIMBA 2.0**, the **#1 TTS model** in the world.
 
 I have hands-on experience in backend engineering, automation, and scalable system design. I’ve worked with startups in **India** and the **USA** across **AI, defence, and healthcare**, contributing to secure, production-ready backend services and automation platforms.
 
 Previously, I:
+- Built **AI agents, intelligent workflows, and backend systems** at **[Zenact AI](https://zenact.ai/)**.
+
 - Built and deployed end-to-end **healthcare automation workflows** for US-based clients at **[Tennr (YC W23)](https://www.tennr.com/)**.
+
 - Worked on **real-time intelligence and situational-awareness platforms** for the **Indian Armed Forces** at **[Neuralix AI](https://neuralix.ai/)**.
 
 I enjoy understanding how complex systems work end-to-end and am naturally curious about technology, products, and large-scale problem-solving.
 
-Outside of work, I spend time researching, reading across domains, and contributing to **open-source projects** such as **[Prophetverse](https://prophetverse.com/latest/)** and **[Open edX](https://openedx.org/)**.
+Outside of work, I spend time researching, reading across domains, and contributing to **open-source projects** such as **[Prophetverse](https://prophetverse.com/latest/)**, **[Open edX](https://openedx.org/)**, and **[Cortex](https://github.com/cortexproject/cortex)**.
 
 Always open to discussions around engineering, backend systems, system design, and emerging technologies. Happy to connect!
 
