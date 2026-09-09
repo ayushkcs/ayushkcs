@@ -9,7 +9,7 @@ Previously, I:
 
 - Built and deployed end-to-end **healthcare automation workflows** for US-based clients at **[Tennr (YC W23)](https://www.tennr.com/)**.
 
-- Worked on **real-time intelligence and situational-awareness platforms** for the **Indian Armed Forces** at **[Neuralix AI](https://neuralix.ai/)**.
+- Worked on **real-time intelligence and situational awareness platforms** for the **Indian Armed Forces**.
 
 I enjoy understanding how complex systems work end-to-end and am naturally curious about technology, products, and large-scale problem-solving.
 
